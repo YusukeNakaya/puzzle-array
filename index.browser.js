@@ -1,4 +1,4 @@
-window.shuffleArray = function shuffleArray(reciveArray) {
+window.puzzleArray = function puzzleArray(reciveArray) {
   let arrayLength = reciveArray.length
   let resultArray = reciveArray
 

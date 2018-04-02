@@ -1,4 +1,4 @@
-export default function shuffleArray(reciveArray) {
+export default function puzzleArray(reciveArray) {
   let arrayLength = reciveArray.length
   let resultArray = reciveArray
 
