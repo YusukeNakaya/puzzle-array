@@ -1,5 +1,5 @@
 {
-  "name": "shuffle-array",
+  "name": "puzzle-array",
   "version": "1.0.3",
   "main": "index.js",
   "unpkg": "index.browser.js",
