@@ -1,6 +1,6 @@
 {
   "name": "puzzle-array",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "main": "index.js",
   "unpkg": "index.browser.js",
   "author": "YusukeNakaya",
