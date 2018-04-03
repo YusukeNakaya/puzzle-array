@@ -12,13 +12,13 @@ npm install puzzle-array
 
 ### unpkg
 
-```
+```html
 <script src="https://unpkg.com/puzzle-array" type="text/javascript"></script>
 ```
 
 ## Example
 
-```
+```javascript
 let array = [0, 1, 2, 3, 4, 5]
 array = puzzleArray(array)
 console.log(array) // [3, 0, 5, 4, 1, 2]
