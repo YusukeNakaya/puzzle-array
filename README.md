@@ -2,12 +2,12 @@
 
 Responds to the shuffled array.
 
-## install
+## Installation
 
 ### npm
 
 ```
-npm install puzzle-array
+$ npm install puzzle-array
 ```
 
 ### unpkg
@@ -16,10 +16,13 @@ npm install puzzle-array
 <script src="https://unpkg.com/puzzle-array" type="text/javascript"></script>
 ```
 
-## Example
+## Usage
 
 ```javascript
 let array = [0, 1, 2, 3, 4, 5]
 array = puzzleArray(array)
-console.log(array) // [3, 0, 5, 4, 1, 2]
+console.log(array) // return: [3, 0, 5, 4, 1, 2]
 ```
+## License
+
+MIT
