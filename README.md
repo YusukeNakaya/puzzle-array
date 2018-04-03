@@ -1,7 +1,6 @@
 # puzzle-array
 
-Responds to the shuffled array.
-Use Fisher-Yates algorithm.
+Passing the array, return the array shuffled. Use Fisher-Yates algorithm.
 
 ## Installation
 
